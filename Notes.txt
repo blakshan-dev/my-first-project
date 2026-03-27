@@ -1,0 +1,4 @@
+PC Troubleshooting Tips:
+1. Always check the PSU voltages first with a multimeter.
+2. Shorted MLCC capacitors are a common cause for laptop no-power issues.
+3. Clean RAM gold contacts with an eraser for memory-related boot issues.
